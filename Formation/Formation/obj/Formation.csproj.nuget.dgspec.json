@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkharchich\\Desktop\\Formation\\Git\\Got_Formation_3\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
+    "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkharchich\\Desktop\\Formation\\Git\\Got_Formation_3\\FormationGit\\Formation\\Formation\\Formation.csproj": {
+    "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkharchich\\Desktop\\Formation\\Git\\Got_Formation_3\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "projectUniqueName": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
         "projectName": "Formation",
-        "projectPath": "C:\\Users\\mkharchich\\Desktop\\Formation\\Git\\Got_Formation_3\\FormationGit\\Formation\\Formation\\Formation.csproj",
-        "packagesPath": "C:\\Users\\mkharchich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkharchich\\Desktop\\Formation\\Git\\Got_Formation_3\\FormationGit\\Formation\\Formation\\obj\\",
+        "projectPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "packagesPath": "C:\\Users\\mdiallo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mkharchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mdiallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
