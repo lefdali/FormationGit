@@ -10,13 +10,14 @@ git.Id = 1;
 
 List<Student> students = new List<Student>()
 {
-    new Student() { Id = 1,Name="Mouaad"}
+    new Student() { Id = 1,Name="Mouaad"},
+    new Student() {Id = 2, Name = "Chahid Anas"}
 };   
 
 git.Students = students;
 
 
-console.WriteLine("mkharchich changes")
+Console.WriteLine("mkharchich changes");
 
 //branche blefdali22
 
