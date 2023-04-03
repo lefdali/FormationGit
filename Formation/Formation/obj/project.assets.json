@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mdiallo\\.nuget\\packages\\": {}
+    "C:\\Users\\achahid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
+      "projectUniqueName": "C:\\Users\\achahid\\Desktop\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
       "projectName": "Formation",
-      "projectPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
-      "packagesPath": "C:\\Users\\mdiallo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\obj\\",
+      "projectPath": "C:\\Users\\achahid\\Desktop\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
+      "packagesPath": "C:\\Users\\achahid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\achahid\\Desktop\\Git\\FormationGit\\Formation\\Formation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mdiallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\achahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

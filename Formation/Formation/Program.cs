@@ -16,7 +16,7 @@ List<Student> students = new List<Student>()
 git.Students = students;
 
 
-console.WriteLine("mkharchich changes")
+Console.WriteLine("mkharchich changes");
 
 //branche blefdali22
 
