@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
+    "C:\\Users\\aelhaoussi\\Desktop\\FormationTp\\Formation\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj": {
+    "C:\\Users\\aelhaoussi\\Desktop\\FormationTp\\Formation\\FormationGit\\Formation\\Formation\\Formation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "projectUniqueName": "C:\\Users\\aelhaoussi\\Desktop\\FormationTp\\Formation\\FormationGit\\Formation\\Formation\\Formation.csproj",
         "projectName": "Formation",
-        "projectPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\Formation.csproj",
-        "packagesPath": "C:\\Users\\mdiallo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdiallo\\Desktop\\FORMATION\\Git\\TP\\FormationGit\\Formation\\Formation\\obj\\",
+        "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\FormationTp\\Formation\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "packagesPath": "C:\\Users\\aelhaoussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aelhaoussi\\Desktop\\FormationTp\\Formation\\FormationGit\\Formation\\Formation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mdiallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aelhaoussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
