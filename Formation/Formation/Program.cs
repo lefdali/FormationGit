@@ -1,23 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Formation;
+//using Formation;
 
 Console.WriteLine("Hello, World!  ");
 
-Formations git = new Formations();
+Console.WriteLine("Hello, it's walid commit here !  ");
 
-git.Name = "git";
-git.Id = 1; 
+Console.WriteLine("Hello, World!  version 01");
 
-List<Student> students = new List<Student>()
-{
-    new Student() { Id = 1,Name="Mouaad"}
-};   
+Console.WriteLine("Hello, world, Younes version ");
 
-git.Students = students;
+Console.WriteLine("Hello, Sqli, to dev brach");
+Console.WriteLine("Hello, Sqli, saad");
 
-
-console.WriteLine("mkharchich changes")
-
+List<Restaurant> restaurants = new List<Restaurant>();
+restaurants.Add(new Restaurant() { Id = 1, Name = "name1" });
+Console.WriteLine(restaurants.Count);
 //branche blefdali22
 
 
