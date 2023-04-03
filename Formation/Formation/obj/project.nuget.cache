@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNanR1oyKvW+jc0Up+i4yp2+mskjeZBrivbKBR96vaCDWoutwsD9gsNAzKSsVO8euM8a1oeUknNO1CPxtFvb2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.78.120.250/DefaultCollection/_packaging/Massar_Package/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
