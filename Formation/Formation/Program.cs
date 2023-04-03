@@ -6,17 +6,22 @@ Console.WriteLine("Hello, World!  ");
 Formations git = new Formations();
 
 git.Name = "git";
-git.Id = 1; 
+git.Id = 1;
 
 List<Student> students = new List<Student>()
 {
-    new Student() { Id = 1,Name="Mouaad"}
+    new Student() { Id = 1,Name="Mouaad"},
+    new Student() { Id = 2,Name="Ahmed"}
 };   
 
 git.Students = students;
 
+foreach (Student std in students)
+{
 
-console.WriteLine("mkharchich changes")
+    Console.WriteLine(std.Name + " is included in formation " + git.Name);
+}
+    
 
 //branche blefdali22
 

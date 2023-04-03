@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\blefdali\\.nuget\\packages\\": {}
+    "C:\\Users\\aeddahby\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj",
+      "projectUniqueName": "C:\\Ahmed\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
       "projectName": "Formation",
-      "projectPath": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj",
-      "packagesPath": "C:\\Users\\blefdali\\.nuget\\packages\\",
-      "outputPath": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\obj\\",
+      "projectPath": "C:\\Ahmed\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
+      "packagesPath": "C:\\Users\\aeddahby\\.nuget\\packages\\",
+      "outputPath": "C:\\Ahmed\\Git\\FormationGit\\Formation\\Formation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\blefdali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aeddahby\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.78.120.250/DefaultCollection/_packaging/Massar_Package/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,16 +61,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.78.120.250/DefaultCollection/_packaging/Massar_Package/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }
