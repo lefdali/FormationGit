@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
+    "C:\\Users\\yhasbi\\OneDrive - SQLI\\Bureau\\Formation_git\\Workspace\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
   },
   "projects": {
-    "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj": {
+    "C:\\Users\\yhasbi\\OneDrive - SQLI\\Bureau\\Formation_git\\Workspace\\FormationGit\\Formation\\Formation\\Formation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "projectUniqueName": "C:\\Users\\yhasbi\\OneDrive - SQLI\\Bureau\\Formation_git\\Workspace\\FormationGit\\Formation\\Formation\\Formation.csproj",
         "projectName": "Formation",
-        "projectPath": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\Formation.csproj",
-        "packagesPath": "C:\\Users\\blefdali\\.nuget\\packages\\",
-        "outputPath": "D:\\Badr Projets\\Projet_sqli\\2_DirectionTechnique\\DT_2023\\Nouveau dossier\\FormationGit\\Formation\\Formation\\obj\\",
+        "projectPath": "C:\\Users\\yhasbi\\OneDrive - SQLI\\Bureau\\Formation_git\\Workspace\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "packagesPath": "C:\\Users\\yhasbi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yhasbi\\OneDrive - SQLI\\Bureau\\Formation_git\\Workspace\\FormationGit\\Formation\\Formation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\blefdali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yhasbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.78.120.250/DefaultCollection/_packaging/Massar_Package/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
