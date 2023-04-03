@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selhassani\\Documents\\FormationGit5\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
+    "D:\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selhassani\\Documents\\FormationGit5\\FormationGit\\Formation\\Formation\\Formation.csproj": {
+    "D:\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selhassani\\Documents\\FormationGit5\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "projectUniqueName": "D:\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
         "projectName": "Formation",
-        "projectPath": "C:\\Users\\selhassani\\Documents\\FormationGit5\\FormationGit\\Formation\\Formation\\Formation.csproj",
-        "packagesPath": "C:\\Users\\selhassani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selhassani\\Documents\\FormationGit5\\FormationGit\\Formation\\Formation\\obj\\",
+        "projectPath": "D:\\Git\\FormationGit\\Formation\\Formation\\Formation.csproj",
+        "packagesPath": "C:\\Users\\tjaaouan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\FormationGit\\Formation\\Formation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\selhassani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tjaaouan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
